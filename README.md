@@ -1,5 +1,5 @@
 # Gaskell_Novel
-Using LLM's to finish Elizabeth Gaskell's unfinished novel: Wives and Daughters
+## Using LLM's to finish Elizabeth Gaskell's unfinished novel: Wives and Daughters
 ---
 
 Many well known writers have died with novels unfinished.
