@@ -15,4 +15,4 @@ She was born in England in 1810 and wrote 7 full novels, 5 non-fiction works, an
 ---
 Britannica, T. Editors of Encyclopaedia (2022, November 8). Elizabeth Cleghorn Gaskell. Encyclopedia Britannica. https://www.britannica.com/biography/Elizabeth-Cleghorn-Gaskell
 
-Gaskell, Elizabeth. Wives and Daughters: An Every-Day Story. Project Gutenberg, 2022, https://www.gutenberg.org/cache/epub/4274/pg4274.txt.
+Gaskell, Elizabeth. Wives and Daughters: An Every-Day Story. Project Gutenberg, 1 Jul. 2003, https://www.gutenberg.org/ebooks/4274
